@@ -6,7 +6,7 @@
 git clone https://github.com/mariorojas/chatgpttest.git
 cd chatgpttest/
 python3 -m venv venv
-. ./venv/bin/active
+. venv/bin/active
 pip install -r requirements.txt
 ```
 
